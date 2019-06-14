@@ -1,8 +1,9 @@
-# ‘²˜_—pŽÀŒ±ƒVƒXƒeƒ€
-- ƒGƒŒƒLƒMƒ^[‚ÌƒAƒhƒŠƒu‰‰‘t‚Ì—ûK‚ðŽx‰‡‚·‚éƒVƒXƒeƒ€
+# å’è«–ç”¨å®Ÿé¨“ã‚·ã‚¹ãƒ†ãƒ 
+- ã‚¨ãƒ¬ã‚­ã‚®ã‚¿ãƒ¼ã®ã‚¢ãƒ‰ãƒªãƒ–æ¼”å¥ã®ç·´ç¿’ã‚’æ”¯æ´ã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ 
 ## rokuon
-- ‹È‚É‡‚í‚¹‚ÄƒGƒŒƒLƒMƒ^[‚ð‰‰‘t‚·‚é‚ÆC‚»‚ÌŽž‚Ì‰¹ºM†‚ª˜^‰¹‚³‚ê‚éprocessingƒvƒƒOƒ‰ƒ€
+- æ›²ã«åˆã‚ã›ã¦ã‚¨ãƒ¬ã‚­ã‚®ã‚¿ãƒ¼ã‚’æ¼”å¥ã™ã‚‹ã¨ï¼Œãã®æ™‚ã®éŸ³å£°ä¿¡å·ãŒéŒ²éŸ³ã•ã‚Œã‚‹processingãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 ## kenkyu_sotsuron
-- ˜^‰¹‚³‚ê‚½ƒtƒŒ[ƒY‚Æ‚ ‚ç‚©‚¶‚ß—pˆÓ‚³‚ê‚½ƒtƒŒ[ƒY‚Ì—ÞŽ—“x‚ðŒvŽZ‚·‚éPythonƒvƒƒOƒ‰ƒ€
+- éŒ²éŸ³ã•ã‚ŒãŸãƒ•ãƒ¬ãƒ¼ã‚ºã¨ã‚ã‚‰ã‹ã˜ã‚ç”¨æ„ã•ã‚ŒãŸãƒ•ãƒ¬ãƒ¼ã‚ºã®é¡žä¼¼åº¦ã‚’è¨ˆç®—ã™ã‚‹Pythonãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 ## processing_suisen
-- —ÞŽ—“x‚ª’á‚¢ƒtƒŒ[ƒY‚©‚ç‡‚ÉŠy•ˆ‚Æ‰¹º‚ð’ñŽ¦‚·‚éprocessingƒvƒƒOƒ‰ƒ€
+- é¡žä¼¼åº¦ãŒä½Žã„ãƒ•ãƒ¬ãƒ¼ã‚ºã‹ã‚‰é †ã«æ¥½è­œã¨éŸ³å£°ã‚’æç¤ºã™ã‚‹processingãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+[![Image from Gyazo](https://i.gyazo.com/bd270beb559f414fe9943101a6ae43db.png)](https://gyazo.com/bd270beb559f414fe9943101a6ae43db)
